@@ -1,0 +1,9 @@
+[submodule "1cc"]
+	path = 1cc
+	url = https://github.com/nobu-h-o/1cc
+[submodule "2cc"]
+	path = 2cc
+	url = https://github.com/nobu-h-o/2cc
+[submodule "3cc"]
+	path = 3cc
+	url = https://github.com/nobu-h-o/3cc
